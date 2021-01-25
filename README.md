@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+Hi People!
+I'm here. Let's enjoy the course from github.
